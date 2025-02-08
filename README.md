@@ -3,7 +3,7 @@
 
 <p align="left"><b>Things I am interested into:</b></p>
 <ul>
-  <li><b>Languages: C, C++, Python</b></li>
+  <li><b>Languages: C, C++, Python, SQL</b></li>
   <li><b>DSA (Data Structures and Algorithms)</b></li>
   <li><b>Problem Solving</b></li>
   <li><b>Machine Learning</b></li>
